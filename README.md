@@ -16,8 +16,3 @@ I'm Ade Yusuf, a Frontend Developer & UI/UX Designer.
 - React
 - Next.js
 - Figma
-
-### Connect with me
-
-🌐 [Portfolio](https://example.com)
-💼 [LinkedIn](https://linkedin.com)
